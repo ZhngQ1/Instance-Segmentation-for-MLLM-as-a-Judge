@@ -1,0 +1,51 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tie",
+      "points": [
+        [
+          42.89,
+          116.71
+        ],
+        [
+          40.64,
+          128.32
+        ],
+        [
+          34.51,
+          150.59
+        ],
+        [
+          33.54,
+          155.43
+        ],
+        [
+          42.57,
+          156.4
+        ],
+        [
+          45.48,
+          145.1
+        ],
+        [
+          47.74,
+          122.52
+        ],
+        [
+          47.41,
+          113.16
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "imagePath": "coco_000000182923.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

@@ -1,0 +1,70 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000104666.jpg",
+  "imageData": null,
+  "imageHeight": 427,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "label": "tv",
+      "points": [
+        [
+          529.44,
+          267.69
+        ],
+        [
+          565.82,
+          269.6
+        ],
+        [
+          576.35,
+          286.84
+        ],
+        [
+          637.63,
+          308.86
+        ],
+        [
+          639.54,
+          357.68
+        ],
+        [
+          622.31,
+          363.43
+        ],
+        [
+          617.52,
+          387.36
+        ],
+        [
+          539.97,
+          383.53
+        ],
+        [
+          522.74,
+          333.75
+        ],
+        [
+          528.48,
+          273.43
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "tv"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000104666",
+    "created_at": "2026-02-09T20:19:40.676914",
+    "n_original": 1,
+    "n_kept": 1
+  }
+}

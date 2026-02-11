@@ -1,0 +1,47 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000175535.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 478,
+  "shapes": [
+    {
+      "label": "dining table",
+      "points": [
+        [
+          1.44,
+          4.67
+        ],
+        [
+          477.48,
+          3.24
+        ],
+        [
+          477.48,
+          630.29
+        ],
+        [
+          4.31,
+          631.73
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "knife",
+      "dining table"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000175535",
+    "created_at": "2026-02-09T20:19:40.696731",
+    "n_original": 2,
+    "n_kept": 1
+  }
+}

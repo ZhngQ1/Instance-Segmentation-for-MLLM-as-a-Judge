@@ -1,0 +1,59 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000438304.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 464,
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          135.52,
+          274.06
+        ],
+        [
+          144.12,
+          292.63
+        ],
+        [
+          159.25,
+          334.92
+        ],
+        [
+          169.22,
+          327.36
+        ],
+        [
+          162.69,
+          289.88
+        ],
+        [
+          157.53,
+          281.62
+        ],
+        [
+          151.0,
+          276.12
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "person",
+      "sports ball"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000438304",
+    "created_at": "2026-02-09T20:19:40.741784",
+    "n_original": 5,
+    "n_kept": 1
+  }
+}

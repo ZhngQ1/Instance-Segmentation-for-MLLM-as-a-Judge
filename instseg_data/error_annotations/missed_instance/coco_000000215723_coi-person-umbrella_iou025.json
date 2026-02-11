@@ -1,0 +1,75 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000215723.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          467.11,
+          251.38
+        ],
+        [
+          382.28,
+          257.82
+        ],
+        [
+          377.99,
+          228.83
+        ],
+        [
+          346.85,
+          215.94
+        ],
+        [
+          362.95,
+          170.84
+        ],
+        [
+          370.47,
+          163.33
+        ],
+        [
+          372.62,
+          141.85
+        ],
+        [
+          397.32,
+          132.18
+        ],
+        [
+          422.01,
+          151.51
+        ],
+        [
+          466.04,
+          226.68
+        ],
+        [
+          469.26,
+          252.45
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "person",
+      "umbrella"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000215723",
+    "created_at": "2026-02-09T20:19:40.705750",
+    "n_original": 3,
+    "n_kept": 1
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "cityscapes_hanover_hanover_000000_032210_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048,
+  "shapes": [
+    {
+      "label": "truck",
+      "points": [
+        [
+          1151.0,
+          385.0
+        ],
+        [
+          1200.0,
+          385.0
+        ],
+        [
+          1200.0,
+          389.0
+        ],
+        [
+          1210.0,
+          390.0
+        ],
+        [
+          1213.0,
+          393.0
+        ],
+        [
+          1217.0,
+          398.0
+        ],
+        [
+          1217.0,
+          407.0
+        ],
+        [
+          1157.0,
+          411.0
+        ],
+        [
+          1151.0,
+          396.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "truck"
+    ],
+    "iou": 0.5,
+    "base_image": "cityscapes_hanover_hanover_000000_032210_leftImg8bit",
+    "created_at": "2026-02-09T20:19:40.617577",
+    "n_original": 1,
+    "n_kept": 1
+  }
+}

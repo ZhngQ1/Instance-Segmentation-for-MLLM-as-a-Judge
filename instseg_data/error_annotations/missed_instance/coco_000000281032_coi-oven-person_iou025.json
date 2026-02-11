@@ -1,0 +1,51 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000281032.jpg",
+  "imageData": null,
+  "imageHeight": 427,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "label": "oven",
+      "points": [
+        [
+          126.95,
+          341.89
+        ],
+        [
+          308.71,
+          422.67
+        ],
+        [
+          0.0,
+          419.79
+        ],
+        [
+          0.0,
+          372.66
+        ],
+        [
+          127.91,
+          338.04
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "oven",
+      "person"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000281032",
+    "created_at": "2026-02-09T20:19:40.718755",
+    "n_original": 3,
+    "n_kept": 1
+  }
+}

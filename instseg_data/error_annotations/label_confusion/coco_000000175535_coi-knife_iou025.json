@@ -1,0 +1,82 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000175535.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 478,
+  "shapes": [
+    {
+      "label": "knife",
+      "points": [
+        [
+          270.38,
+          18.7
+        ],
+        [
+          255.35,
+          34.13
+        ],
+        [
+          278.48,
+          34.81
+        ],
+        [
+          289.36,
+          36.17
+        ],
+        [
+          305.69,
+          21.89
+        ],
+        [
+          310.6,
+          14.5
+        ],
+        [
+          325.47,
+          7.89
+        ],
+        [
+          330.84,
+          0.45
+        ],
+        [
+          289.13,
+          1.28
+        ],
+        [
+          285.82,
+          3.34
+        ],
+        [
+          284.58,
+          9.54
+        ],
+        [
+          272.61,
+          15.73
+        ],
+        [
+          270.13,
+          18.21
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "label_confusion",
+    "coi": [
+      "knife"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000175535",
+    "created_at": "2026-02-09T20:19:40.910358",
+    "n_confused": 0,
+    "n_total": 1
+  }
+}

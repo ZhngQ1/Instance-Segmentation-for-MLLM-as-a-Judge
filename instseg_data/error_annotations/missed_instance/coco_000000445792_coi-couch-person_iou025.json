@@ -1,0 +1,47 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000445792.jpg",
+  "imageData": null,
+  "imageHeight": 375,
+  "imageWidth": 500,
+  "shapes": [
+    {
+      "label": "couch",
+      "points": [
+        [
+          23.39,
+          370.16
+        ],
+        [
+          58.06,
+          333.06
+        ],
+        [
+          92.74,
+          353.23
+        ],
+        [
+          106.45,
+          370.97
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "couch",
+      "person"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000445792",
+    "created_at": "2026-02-09T20:19:40.747857",
+    "n_original": 5,
+    "n_kept": 1
+  }
+}

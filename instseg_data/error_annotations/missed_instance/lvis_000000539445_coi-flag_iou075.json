@@ -1,0 +1,66 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "lvis_000000539445.jpg",
+  "imageData": null,
+  "imageHeight": 612,
+  "imageWidth": 612,
+  "shapes": [
+    {
+      "label": "flag",
+      "points": [
+        [
+          69.89,
+          294.29
+        ],
+        [
+          65.29,
+          290.17
+        ],
+        [
+          66.71,
+          288.42
+        ],
+        [
+          67.83,
+          284.45
+        ],
+        [
+          68.14,
+          279.05
+        ],
+        [
+          68.94,
+          275.88
+        ],
+        [
+          70.05,
+          272.54
+        ],
+        [
+          70.21,
+          270.64
+        ],
+        [
+          69.89,
+          294.29
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "flag"
+    ],
+    "iou": 0.75,
+    "base_image": "lvis_000000539445",
+    "created_at": "2026-02-09T20:19:40.812324",
+    "n_original": 1,
+    "n_kept": 1
+  }
+}

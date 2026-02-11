@@ -1,0 +1,59 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "motorcycle",
+      "points": [
+        [
+          1327.0,
+          461.0
+        ],
+        [
+          1308.0,
+          450.0
+        ],
+        [
+          1307.0,
+          441.0
+        ],
+        [
+          1310.0,
+          438.0
+        ],
+        [
+          1308.0,
+          430.0
+        ],
+        [
+          1306.0,
+          426.0
+        ],
+        [
+          1311.0,
+          421.0
+        ],
+        [
+          1317.0,
+          421.0
+        ],
+        [
+          1345.0,
+          423.0
+        ],
+        [
+          1372.0,
+          414.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "imagePath": "cityscapes_munster_munster_000069_000019_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048
+}

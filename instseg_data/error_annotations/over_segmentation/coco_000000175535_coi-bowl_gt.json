@@ -1,0 +1,60 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bowl",
+      "points": [
+        [
+          181.19,
+          630.03
+        ],
+        [
+          167.9,
+          465.45
+        ],
+        [
+          350.75,
+          443.84
+        ],
+        [
+          395.64,
+          630.03
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    },
+    {
+      "label": "bowl",
+      "points": [
+        [
+          0.0,
+          540.7
+        ],
+        [
+          144.78,
+          517.9
+        ],
+        [
+          166.8,
+          640.0
+        ],
+        [
+          0.0,
+          640.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "imagePath": "coco_000000175535.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 478
+}

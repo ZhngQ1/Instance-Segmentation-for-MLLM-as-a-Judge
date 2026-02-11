@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual / conda
+.venv/
+venv/
+env/
+
+# Generated (optional: uncomment if pairwise_metadata.json is too large to track)
+# pairwise_metadata.json
+# vis/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,78 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000438304.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 464,
+  "shapes": [
+    {
+      "label": "sports ball",
+      "points": [
+        [
+          381.81,
+          182.6
+        ],
+        [
+          383.71,
+          177.74
+        ],
+        [
+          388.78,
+          175.2
+        ],
+        [
+          395.55,
+          175.2
+        ],
+        [
+          398.93,
+          177.95
+        ],
+        [
+          404.0,
+          183.02
+        ],
+        [
+          406.11,
+          190.21
+        ],
+        [
+          404.63,
+          194.86
+        ],
+        [
+          398.93,
+          198.03
+        ],
+        [
+          391.74,
+          199.3
+        ],
+        [
+          384.77,
+          195.7
+        ],
+        [
+          382.65,
+          190.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "label_confusion",
+    "coi": [
+      "sports ball"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000438304",
+    "created_at": "2026-02-09T20:19:40.961618",
+    "n_confused": 0,
+    "n_total": 1
+  }
+}

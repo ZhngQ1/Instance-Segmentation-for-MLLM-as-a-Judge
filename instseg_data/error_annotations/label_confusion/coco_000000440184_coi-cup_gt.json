@@ -1,0 +1,43 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cup",
+      "points": [
+        [
+          70.13,
+          174.19
+        ],
+        [
+          70.06,
+          175.43
+        ],
+        [
+          66.8,
+          175.09
+        ],
+        [
+          66.8,
+          173.63
+        ],
+        [
+          68.81,
+          173.35
+        ],
+        [
+          70.13,
+          173.42
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "imagePath": "coco_000000440184.jpg",
+  "imageData": null,
+  "imageHeight": 425,
+  "imageWidth": 640
+}

@@ -1,0 +1,66 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000117492.jpg",
+  "imageData": null,
+  "imageHeight": 428,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "label": "umbrella",
+      "points": [
+        [
+          370.24,
+          161.2
+        ],
+        [
+          380.17,
+          160.03
+        ],
+        [
+          388.34,
+          161.2
+        ],
+        [
+          425.71,
+          168.2
+        ],
+        [
+          447.32,
+          164.12
+        ],
+        [
+          466.59,
+          165.28
+        ],
+        [
+          468.34,
+          161.2
+        ],
+        [
+          414.62,
+          143.1
+        ],
+        [
+          370.24,
+          159.45
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "umbrella"
+    ],
+    "iou": 0.5,
+    "base_image": "coco_000000117492",
+    "created_at": "2026-02-09T20:19:40.681357",
+    "n_original": 1,
+    "n_kept": 1
+  }
+}

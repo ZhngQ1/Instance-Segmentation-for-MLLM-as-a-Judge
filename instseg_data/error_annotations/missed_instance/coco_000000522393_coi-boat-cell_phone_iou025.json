@@ -1,0 +1,59 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000522393.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "label": "cell phone",
+      "points": [
+        [
+          397.68,
+          464.61
+        ],
+        [
+          397.43,
+          466.31
+        ],
+        [
+          397.51,
+          468.18
+        ],
+        [
+          399.3,
+          468.18
+        ],
+        [
+          399.98,
+          467.33
+        ],
+        [
+          400.06,
+          465.72
+        ],
+        [
+          397.85,
+          464.61
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "boat",
+      "cell phone"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000522393",
+    "created_at": "2026-02-09T20:19:40.752940",
+    "n_original": 2,
+    "n_kept": 1
+  }
+}

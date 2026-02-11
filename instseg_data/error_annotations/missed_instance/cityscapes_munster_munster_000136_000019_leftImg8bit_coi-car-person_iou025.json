@@ -1,0 +1,111 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "cityscapes_munster_munster_000136_000019_leftImg8bit.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2048,
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          873.0,
+          413.0
+        ],
+        [
+          875.0,
+          409.0
+        ],
+        [
+          881.0,
+          404.0
+        ],
+        [
+          887.0,
+          404.0
+        ],
+        [
+          891.0,
+          407.0
+        ],
+        [
+          894.0,
+          411.0
+        ],
+        [
+          894.0,
+          417.0
+        ],
+        [
+          894.0,
+          425.0
+        ],
+        [
+          906.0,
+          436.0
+        ],
+        [
+          907.0,
+          446.0
+        ],
+        [
+          903.0,
+          458.0
+        ],
+        [
+          903.0,
+          464.0
+        ],
+        [
+          900.0,
+          468.0
+        ],
+        [
+          888.0,
+          467.0
+        ],
+        [
+          888.0,
+          463.0
+        ],
+        [
+          890.0,
+          449.0
+        ],
+        [
+          874.0,
+          444.0
+        ],
+        [
+          869.0,
+          440.0
+        ],
+        [
+          867.0,
+          427.0
+        ],
+        [
+          870.0,
+          418.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "car",
+      "person"
+    ],
+    "iou": 0.25,
+    "base_image": "cityscapes_munster_munster_000136_000019_leftImg8bit",
+    "created_at": "2026-02-09T20:19:40.638042",
+    "n_original": 2,
+    "n_kept": 1
+  }
+}

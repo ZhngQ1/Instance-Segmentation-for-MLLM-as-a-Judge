@@ -1,0 +1,70 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000522393.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "label": "boat",
+      "points": [
+        [
+          284.76,
+          557.58
+        ],
+        [
+          287.64,
+          586.35
+        ],
+        [
+          312.09,
+          587.79
+        ],
+        [
+          402.7,
+          584.91
+        ],
+        [
+          440.09,
+          582.03
+        ],
+        [
+          448.72,
+          538.89
+        ],
+        [
+          396.94,
+          534.57
+        ],
+        [
+          346.61,
+          525.94
+        ],
+        [
+          303.46,
+          538.89
+        ],
+        [
+          287.64,
+          553.27
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "label_confusion",
+    "coi": [
+      "boat"
+    ],
+    "iou": 0.75,
+    "base_image": "coco_000000522393",
+    "created_at": "2026-02-09T20:19:40.974437",
+    "n_confused": 0,
+    "n_total": 1
+  }
+}

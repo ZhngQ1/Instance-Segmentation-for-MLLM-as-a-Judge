@@ -1,0 +1,67 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "lvis_000000231822.jpg",
+  "imageData": null,
+  "imageHeight": 361,
+  "imageWidth": 500,
+  "shapes": [
+    {
+      "label": "brownie",
+      "points": [
+        [
+          354.16,
+          254.74
+        ],
+        [
+          352.64,
+          273.67
+        ],
+        [
+          358.7,
+          314.18
+        ],
+        [
+          366.28,
+          315.69
+        ],
+        [
+          423.87,
+          314.56
+        ],
+        [
+          432.21,
+          303.58
+        ],
+        [
+          431.83,
+          290.33
+        ],
+        [
+          421.22,
+          254.74
+        ],
+        [
+          354.16,
+          254.74
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "glass_(drink_container)",
+      "brownie"
+    ],
+    "iou": 0.25,
+    "base_image": "lvis_000000231822",
+    "created_at": "2026-02-09T20:19:40.797080",
+    "n_original": 3,
+    "n_kept": 1
+  }
+}

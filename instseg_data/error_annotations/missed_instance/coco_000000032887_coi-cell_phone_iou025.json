@@ -1,0 +1,50 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "imagePath": "coco_000000032887.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "shapes": [
+    {
+      "label": "cell phone",
+      "points": [
+        [
+          141.23,
+          58.12
+        ],
+        [
+          142.03,
+          61.15
+        ],
+        [
+          145.86,
+          61.95
+        ],
+        [
+          145.15,
+          57.49
+        ],
+        [
+          141.76,
+          57.58
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {},
+      "description": ""
+    }
+  ],
+  "_error_metadata": {
+    "error_type": "missed_instance",
+    "coi": [
+      "cell phone"
+    ],
+    "iou": 0.25,
+    "base_image": "coco_000000032887",
+    "created_at": "2026-02-09T20:19:40.666653",
+    "n_original": 1,
+    "n_kept": 1
+  }
+}
