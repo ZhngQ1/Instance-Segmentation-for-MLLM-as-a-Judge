@@ -1,0 +1,899 @@
+[
+  {
+    "id": "cityscapes_cologne_cologne_000028_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_cologne_cologne_000028_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "bicycle",
+      "car"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_dusseldorf_dusseldorf_000080_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_dusseldorf_dusseldorf_000080_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "rider",
+      "person",
+      "car",
+      "motorcycle"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_hamburg_hamburg_000000_067587_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_hamburg_hamburg_000000_067587_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bus",
+      "rider",
+      "person",
+      "car",
+      "bicycle"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_hanover_hanover_000000_032210_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_hanover_hanover_000000_032210_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "bicycle",
+      "car",
+      "truck"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_jena_jena_000084_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_jena_jena_000084_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "rider",
+      "person",
+      "bicycle",
+      "car"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_munster_munster_000069_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_munster_munster_000069_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "rider",
+      "motorcycle",
+      "person",
+      "car",
+      "bicycle"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_munster_munster_000136_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_munster_munster_000136_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "rider",
+      "person",
+      "bicycle",
+      "car"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_stuttgart_stuttgart_000031_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_stuttgart_stuttgart_000031_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "bicycle",
+      "car",
+      "truck"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_stuttgart_stuttgart_000086_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_stuttgart_stuttgart_000086_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "rider",
+      "car",
+      "motorcycle"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_weimar_weimar_000007_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_weimar_weimar_000007_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bus",
+      "person",
+      "car"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "cityscapes_weimar_weimar_000010_000019_leftImg8bit",
+    "file_path": "instance_seg/cityscapes_weimar_weimar_000010_000019_leftImg8bit.png",
+    "data_source": "Cityscapes",
+    "height": 1024,
+    "width": 2048,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "rider",
+      "bicycle",
+      "car"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000017714",
+    "file_path": "instance_seg/coco_000000017714.jpg",
+    "data_source": "COCO",
+    "height": 480,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "dining table",
+      "banana",
+      "pizza",
+      "spoon",
+      "fork",
+      "cup",
+      "knife"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000032887",
+    "file_path": "instance_seg/coco_000000032887.jpg",
+    "data_source": "COCO",
+    "height": 480,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "backpack",
+      "cell phone"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000064523",
+    "file_path": "instance_seg/coco_000000064523.jpg",
+    "data_source": "COCO",
+    "height": 444,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "car",
+      "tennis racket"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000104666",
+    "file_path": "instance_seg/coco_000000104666.jpg",
+    "data_source": "COCO",
+    "height": 427,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "couch",
+      "book",
+      "tv"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000117492",
+    "file_path": "instance_seg/coco_000000117492.jpg",
+    "data_source": "COCO",
+    "height": 428,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "chair",
+      "umbrella",
+      "person",
+      "teddy bear"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000150224",
+    "file_path": "instance_seg/coco_000000150224.jpg",
+    "data_source": "COCO",
+    "height": 427,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "chair",
+      "umbrella",
+      "person",
+      "backpack",
+      "handbag"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000166426",
+    "file_path": "instance_seg/coco_000000166426.jpg",
+    "data_source": "COCO",
+    "height": 640,
+    "width": 587,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bottle",
+      "dining table",
+      "chair",
+      "fork",
+      "cup",
+      "knife"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000175535",
+    "file_path": "instance_seg/coco_000000175535.jpg",
+    "data_source": "COCO",
+    "height": 640,
+    "width": 478,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "dining table",
+      "bowl",
+      "fork",
+      "knife",
+      "sandwich"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000182923",
+    "file_path": "instance_seg/coco_000000182923.jpg",
+    "data_source": "COCO",
+    "height": 500,
+    "width": 375,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "tennis racket",
+      "tie"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000215723",
+    "file_path": "instance_seg/coco_000000215723.jpg",
+    "data_source": "COCO",
+    "height": 480,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "umbrella",
+      "traffic light",
+      "person",
+      "car",
+      "truck"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000261097",
+    "file_path": "instance_seg/coco_000000261097.jpg",
+    "data_source": "COCO",
+    "height": 500,
+    "width": 333,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "chair",
+      "tennis racket",
+      "person",
+      "bench"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000276285",
+    "file_path": "instance_seg/coco_000000276285.jpg",
+    "data_source": "COCO",
+    "height": 640,
+    "width": 427,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "dining table",
+      "pizza",
+      "chair",
+      "person",
+      "fork",
+      "cup",
+      "knife"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000281032",
+    "file_path": "instance_seg/coco_000000281032.jpg",
+    "data_source": "COCO",
+    "height": 427,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "oven",
+      "spoon"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000289343",
+    "file_path": "instance_seg/coco_000000289343.jpg",
+    "data_source": "COCO",
+    "height": 640,
+    "width": 529,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "dog",
+      "bicycle",
+      "person",
+      "bench"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000302107",
+    "file_path": "instance_seg/coco_000000302107.jpg",
+    "data_source": "COCO",
+    "height": 640,
+    "width": 427,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "baseball glove",
+      "baseball bat",
+      "person"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000370270",
+    "file_path": "instance_seg/coco_000000370270.jpg",
+    "data_source": "COCO",
+    "height": 640,
+    "width": 480,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bowl",
+      "person",
+      "sports ball"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000373353",
+    "file_path": "instance_seg/coco_000000373353.jpg",
+    "data_source": "COCO",
+    "height": 428,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bus",
+      "person",
+      "traffic light",
+      "backpack",
+      "handbag",
+      "car"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000434996",
+    "file_path": "instance_seg/coco_000000434996.jpg",
+    "data_source": "COCO",
+    "height": 375,
+    "width": 500,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bed",
+      "cat",
+      "teddy bear"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000438304",
+    "file_path": "instance_seg/coco_000000438304.jpg",
+    "data_source": "COCO",
+    "height": 640,
+    "width": 464,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "sports ball",
+      "tennis racket"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000440184",
+    "file_path": "instance_seg/coco_000000440184.jpg",
+    "data_source": "COCO",
+    "height": 425,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "cup",
+      "sports ball",
+      "tennis racket"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000445792",
+    "file_path": "instance_seg/coco_000000445792.jpg",
+    "data_source": "COCO",
+    "height": 375,
+    "width": 500,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "potted plant",
+      "person",
+      "couch",
+      "remote",
+      "cell phone"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000464476",
+    "file_path": "instance_seg/coco_000000464476.jpg",
+    "data_source": "COCO",
+    "height": 375,
+    "width": 500,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "train",
+      "tv"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000522393",
+    "file_path": "instance_seg/coco_000000522393.jpg",
+    "data_source": "COCO",
+    "height": 640,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "boat",
+      "cell phone"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000538458",
+    "file_path": "instance_seg/coco_000000538458.jpg",
+    "data_source": "COCO",
+    "height": 427,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "person",
+      "traffic light",
+      "skateboard",
+      "truck"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000565776",
+    "file_path": "instance_seg/coco_000000565776.jpg",
+    "data_source": "COCO",
+    "height": 421,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bowl",
+      "spoon",
+      "cup",
+      "sink",
+      "apple",
+      "refrigerator",
+      "potted plant",
+      "vase",
+      "oven"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "coco_000000575970",
+    "file_path": "instance_seg/coco_000000575970.jpg",
+    "data_source": "COCO",
+    "height": 480,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "dining table",
+      "banana",
+      "chair",
+      "bowl",
+      "cup",
+      "sink",
+      "microwave",
+      "apple",
+      "refrigerator",
+      "potted plant",
+      "vase",
+      "oven"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000000632",
+    "file_path": "instance_seg/lvis_000000000632.jpg",
+    "data_source": "LVIS",
+    "height": 483,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bed",
+      "basket",
+      "bedspread",
+      "lamp",
+      "scarf",
+      "telephone",
+      "mirror",
+      "book",
+      "flowerpot"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000015597",
+    "file_path": "instance_seg/lvis_000000015597.jpg",
+    "data_source": "LVIS",
+    "height": 640,
+    "width": 433,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "boot",
+      "wheel",
+      "skateboard",
+      "underwear"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000090108",
+    "file_path": "instance_seg/lvis_000000090108.jpg",
+    "data_source": "LVIS",
+    "height": 480,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "sink",
+      "bathtub",
+      "soap",
+      "mirror",
+      "shower_head"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000121506",
+    "file_path": "instance_seg/lvis_000000121506.jpg",
+    "data_source": "LVIS",
+    "height": 612,
+    "width": 612,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "chair",
+      "umbrella",
+      "bench",
+      "car_(automobile)",
+      "candle",
+      "table"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000127987",
+    "file_path": "instance_seg/lvis_000000127987.jpg",
+    "data_source": "LVIS",
+    "height": 426,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bottle",
+      "computer_keyboard",
+      "monitor_(computer_equipment) computer_monitor",
+      "toy",
+      "marker",
+      "tape_(sticky_cloth_or_paper)"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000132796",
+    "file_path": "instance_seg/lvis_000000132796.jpg",
+    "data_source": "LVIS",
+    "height": 426,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "backpack",
+      "sandal_(type_of_shoe)",
+      "short_pants",
+      "elephant",
+      "watch",
+      "sock"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000142620",
+    "file_path": "instance_seg/lvis_000000142620.jpg",
+    "data_source": "LVIS",
+    "height": 426,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "mug",
+      "yogurt",
+      "camera",
+      "cup",
+      "knife",
+      "water_bottle",
+      "pot",
+      "jacket"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000231822",
+    "file_path": "instance_seg/lvis_000000231822.jpg",
+    "data_source": "LVIS",
+    "height": 361,
+    "width": 500,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "tray",
+      "brownie",
+      "grape",
+      "broccoli",
+      "bowl",
+      "spoon",
+      "fork",
+      "cup",
+      "pepper",
+      "bun",
+      "glass_(drink_container)",
+      "plate",
+      "saltshaker"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000351362",
+    "file_path": "instance_seg/lvis_000000351362.jpg",
+    "data_source": "LVIS",
+    "height": 640,
+    "width": 426,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "faucet",
+      "toilet",
+      "sink",
+      "doorknob",
+      "shower_curtain"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000416451",
+    "file_path": "instance_seg/lvis_000000416451.jpg",
+    "data_source": "LVIS",
+    "height": 480,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "bottle",
+      "piano",
+      "coffee_table",
+      "alcohol",
+      "sofa",
+      "spectacles",
+      "tape_(sticky_cloth_or_paper)",
+      "book",
+      "wineglass",
+      "control"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000468925",
+    "file_path": "instance_seg/lvis_000000468925.jpg",
+    "data_source": "LVIS",
+    "height": 480,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "napkin",
+      "mug",
+      "spoon",
+      "banana"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000539445",
+    "file_path": "instance_seg/lvis_000000539445.jpg",
+    "data_source": "LVIS",
+    "height": 612,
+    "width": 612,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "car_(automobile)",
+      "flag",
+      "windshield_wiper"
+    ],
+    "groundtruth_class_id": []
+  },
+  {
+    "id": "lvis_000000573258",
+    "file_path": "instance_seg/lvis_000000573258.jpg",
+    "data_source": "LVIS",
+    "height": 480,
+    "width": 640,
+    "scene": "",
+    "is_crowd": false,
+    "is_longtail": false,
+    "groundtruth_class": [
+      "glove",
+      "ski_boot",
+      "backpack",
+      "ski",
+      "spectacles",
+      "ski_pole"
+    ],
+    "groundtruth_class_id": []
+  }
+]
