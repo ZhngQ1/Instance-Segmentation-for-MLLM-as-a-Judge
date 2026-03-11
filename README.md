@@ -1,4 +1,5 @@
 # Instance Segmentation Error Curation
+This repository is part of the **Vision-Judge** project — a benchmark for evaluating MLLMs as judges of vision-task outputs. This sub-project handles the instance segmentation track: selecting base images from COCO/Cityscapes/LVIS, synthesizing annotation errors, and generating pairwise comparison metadata for MLLM evaluation. See the main project at [MLLM-as-a-Judge](https://github.com/ZhngQ1/MLLM-as-a-Judge).
 
 本仓库用于对 instance segmentation 任务进行 **data curation**：从 COCO、Cityscapes、LVIS 中选取 base images，人工/自动合成多种 **error type** 的标注数据，并生成 **pairwise comparison** 的 metadata，用于模型评估。
 
